@@ -1,4 +1,4 @@
-- # 💫 About Me:
+# 💫 About Me:
 - 👋 Hi, I’m @Maria-papadopoulou<br>- 💻 I’m studying Informatics and Computer Engineering at University of West Attica 
 
 
@@ -15,17 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maria-papadopoulou&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maria-papadopoulou&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Maria-papadopoulou&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maria-papadopoulou&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Maria-papadopoulou&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Maria-papadopoulou/Maria-papadopoulou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
